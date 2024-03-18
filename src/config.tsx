@@ -1,0 +1,2 @@
+export const CONTRACTADDRESS = "0xB194a28899812B5AF7a25C6eF628cC9e53EEee0A";
+export const gasLimit = "10000000";
